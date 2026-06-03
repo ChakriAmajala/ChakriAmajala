@@ -81,15 +81,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChakriAmajala&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChakriAmajala&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChakriAmajala&layout=compact&theme=tokyonight)
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ChakriAmajala&theme=tokyonight&no-frame=true&row=1)
-
----
+![Trophy](https://github-profile-trophy.vercel.app/?username=ChakriAmajala&theme=tokyonight&no-frame=true&row=1)
 
 # 📫 Contact Me
 
