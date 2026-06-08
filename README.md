@@ -14,7 +14,7 @@
 
 # 🚀 About Me
 
-- 💼 DevOps Engineer with 2.5+ Years of Experience
+- 💼 DevOps Engineer
 - ☁️ Experienced in AWS Cloud Services
 - 🐳 Containerization using Docker & Kubernetes
 - 🔄 CI/CD Pipeline Implementation using Jenkins
